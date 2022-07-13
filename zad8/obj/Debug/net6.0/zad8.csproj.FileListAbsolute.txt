@@ -1,0 +1,15 @@
+/Users/denislevchakov/Desktop/C# Seminars/Seminar1/zad8/bin/Debug/net6.0/zad8
+/Users/denislevchakov/Desktop/C# Seminars/Seminar1/zad8/bin/Debug/net6.0/zad8.deps.json
+/Users/denislevchakov/Desktop/C# Seminars/Seminar1/zad8/bin/Debug/net6.0/zad8.runtimeconfig.json
+/Users/denislevchakov/Desktop/C# Seminars/Seminar1/zad8/bin/Debug/net6.0/zad8.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar1/zad8/bin/Debug/net6.0/zad8.pdb
+/Users/denislevchakov/Desktop/C# Seminars/Seminar1/zad8/obj/Debug/net6.0/zad8.csproj.AssemblyReference.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar1/zad8/obj/Debug/net6.0/zad8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denislevchakov/Desktop/C# Seminars/Seminar1/zad8/obj/Debug/net6.0/zad8.AssemblyInfoInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar1/zad8/obj/Debug/net6.0/zad8.AssemblyInfo.cs
+/Users/denislevchakov/Desktop/C# Seminars/Seminar1/zad8/obj/Debug/net6.0/zad8.csproj.CoreCompileInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar1/zad8/obj/Debug/net6.0/zad8.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar1/zad8/obj/Debug/net6.0/refint/zad8.dll
+/Users/denislevchakov/Desktop/C# Seminars/Seminar1/zad8/obj/Debug/net6.0/zad8.pdb
+/Users/denislevchakov/Desktop/C# Seminars/Seminar1/zad8/obj/Debug/net6.0/zad8.genruntimeconfig.cache
+/Users/denislevchakov/Desktop/C# Seminars/Seminar1/zad8/obj/Debug/net6.0/ref/zad8.dll
